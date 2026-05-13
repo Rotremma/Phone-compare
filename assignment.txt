@@ -1,0 +1,13 @@
+creat a temperature converter
+first ask the user which temperature do you want to convert to?
+option one is celsius to ferinheight
+second option is feringheight to celsius
+if the user choses option one, tell them to enter the temperature in celcius
+After gretting thre value, use the given formular by your tutor to convert the 
+value to farinheight
+then you give the user the out put.
+
+For the second option, ask the user to put the temperature in farinheight, 
+then after geting the value, convert it to celcius using the formular 
+given to you by your tutor
+then print the output to the user
